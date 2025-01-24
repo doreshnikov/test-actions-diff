@@ -1,3 +1,4 @@
 #!/bin/bash
 
-exit 0
+echo "Woooow failing..."
+exit 1
